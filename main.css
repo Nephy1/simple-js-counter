@@ -1,0 +1,17 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Fira sans", sans-serif;
+}
+
+span {
+  font-size: 5rem;
+}
+
+button {
+  cursor: pointer;
+  margin: 0 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
